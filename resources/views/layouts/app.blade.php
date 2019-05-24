@@ -25,7 +25,7 @@
         <div class="header-wrap header-flex">
             <div class="logo mt-45 logo-hm8">
                 <a href="{{route('welcome')}}">
-                    Mega World Centre
+                    <img height="auto" width="200" src="{{asset('public/images/bg/logo.png')}}" alt="">
                 </a>
             </div>
             <div class="main-menu">
@@ -88,6 +88,9 @@
                         </li>
                         <li>
                             <a href="{{route('sumsung_services')}}">Services</a>
+                        </li>
+                        <li>
+                            <a href="{{route('about_us')}}">About Us</a>
                         </li>
                         <li>
                             <a href="{{route('contact_us')}}">Contact Us</a>

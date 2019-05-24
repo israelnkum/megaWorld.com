@@ -140,6 +140,19 @@ class SubCategoryController extends Controller
             ->with('laundryLine',$laundryLine);
     }
 
+
+
+    public function about_us(){
+        $bodyCare=SubCategory::where('category_id',1)->get();
+        $laundryLine=SubCategory::where('category_id',2)->get();
+        $homeCare=SubCategory::where('category_id',3)->get();
+        $cleaningLine=SubCategory::where('category_id',4)->get();
+        return view('about_us')
+            ->with('bodyCare',$bodyCare)
+            ->with('homeCare',$homeCare)
+            ->with('cleaningLine',$cleaningLine)
+            ->with('laundryLine',$laundryLine);
+    }
     /**
      * Update the specified resource in storage.
      *

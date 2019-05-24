@@ -76,18 +76,30 @@
                 </div>
                 <div class="col-lg-6 col-md-6">
                     <div class="tools-content ml-20">
-                        <h4>Our Mission</h4>
-                        <p style="font-size: 15px; line-height: 20px">Aenean sollicitudin, lorem quis bibendum auctor, nisi elit consequat ipsum, nec sagittis sem nibh id elit. Duis sed odio sit amet nibh vulp utate cursus a sit amet mauris accumsan velit.</p>
+{{--                        <h4>Our Mission</h4>--}}
+                        <p style="font-size: 15px; line-height: 20px">
+                            MEGA WORLD CENTRE GHANA LIMTED is the sole importer and distributor of Paglieri product from Italy in Ghana with brand names such as Felce Azura, Cleo, Bianco and Mon Amour. These products ranges from Cosmetics, Laundry to Home care products. We are also into the sale of Solar and Wind Energy as well as ICT...
+                        </p>
                     </div>
 
                     <div class="tools-content ml-20">
-                        <h4 class="mt-10">Our Vision</h4>
-                        <p style="font-size: 15px; line-height: 20px">Aenean sollicitudin, lorem quis bibendum auctor, nisi elit consequat ipsum, nec sagittis sem nibh id elit. Duis sed odio sit amet nibh vulp utate cursus a sit amet mauris accumsan velit.</p>
+                        <h4 class="mt-10">Our Mission & Values</h4>
+                        <p style="font-size: 15px; line-height: 20px">
+                            Winning globally through team work,
+                            Putting our clients first in our business operations,
+                            Leading through innovations,
+                            Valuing people and encouraging talents
+                        </p>
                     </div>
 
                     <div class="tools-content ml-20">
-                        <h4 class="mt-10">Our Values</h4>
-                        <p style="font-size: 15px; line-height: 20px">Lorem ipsum dolor sit amet, consectetur adipisicing elit. Adipisci expedita ipsam ipsum iure optio qui vero. Ad asperiores ducimus ea excepturi iste magni odit quas quo sit suscipit. Dolor, voluptatem?</p>
+                        <h4 class="mt-10">Our Objective</h4>
+                        <p style="font-size: 15px; line-height: 20px">
+                            The major objective of Mega World Center is to offer customers the best prices on the highest quality products and services and increase our clients’ base to over 70% in the next three years. Our ability to respond to customer needs in a timely manner and prompt response to customer enquiry set as aside from our Competitors.
+                        </p>
+                    </div>
+                    <div class="text-center mt-5">
+                        <a href="#" role="button" class="btn btn-dark btn-lg mt-5">Read More...</a>
                     </div>
                 </div>
             </div>

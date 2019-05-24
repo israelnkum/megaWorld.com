@@ -42,6 +42,7 @@ Route::resource('brands','BrandController');
 Route::post('/searchResult','BrandController@searchResult')->name('searchResult');
 
 
-Route::get('/solar_systems', 'SubCategoryController@solar_systems')->name('solar_systems');
-Route::get('/sumsung_services', 'SubCategoryController@sumsung_services')->name('sumsung_services');
-Route::get('/contact_us', 'SubCategoryController@contact_us')->name('contact_us');
+Route::get('/solar-systems', 'SubCategoryController@solar_systems')->name('solar_systems');
+Route::get('/sumsung-services', 'SubCategoryController@sumsung_services')->name('sumsung_services');
+Route::get('/contact-us', 'SubCategoryController@contact_us')->name('contact_us');
+Route::get('/about-us', 'SubCategoryController@about_us')->name('about_us');

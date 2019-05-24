@@ -24,10 +24,19 @@
                     </div>
                 </div>
                 <div class="col-lg-6 col-md-6">
-                    <div class="tools-content ml-20">
-                        <p style="font-size: 15px; line-height: 20px" class="mb-42">
-                            <strong>Solar panel</strong> is a set of solar photovoltaic modules electrically connected & fixed on a structure to provide solar energy.
+                    <div class="tools-content ml-20 text-dark">
+                        <p style="font-size: 15px; font-weight: 500; line-height: 20px" class="mb-5  text-dark">
+                            <strong style="font-size: 18px; ">Solar panel</strong> is a set of solar photovoltaic modules electrically connected & fixed on a structure to provide solar energy.
                         </p>
+
+                        <p style="font-size: 15px; font-weight: 500; line-height: 20px" class="mb-5">
+                            We are into Sales,Installation and Importation of renewable  energy proucts,which is an Alternative Energy source that  is aimed at ꞉
+                        </p>
+                        <ul class="list-unstyled">
+                            • Increasing  Productivity
+                            • Reducing  Operational Cost
+                            • Increasing  Customer Satisfaction
+                        </ul>
 
                         <h4 class="mt-42">Solar energy Benefit</h4>
                         <ul class="list-unstyled">
@@ -44,6 +53,11 @@
                                 - Solar hot water systems save you money on your electricity.
                             </li>
                         </ul>
+
+                        <p style="font-size: 18px; margin-top: 20px; font-weight: bold; line-height: 20px" class="mb-5">
+                            Our focus is to urge businesses and organizations to stop implementing unsuccessful and expensive methods in other to ensure continuous flow of energy.
+                        </p>
+
                     </div>
                 </div>
             </div>
